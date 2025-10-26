@@ -14,13 +14,14 @@ I develop applications using:<br/>
 - **Deployment:** GitHub Pages, Netlify
 
 My goal is to manage the business in an efficient and profitable manner for clients and to establish long-term business relationships with them.
-Let us collaborate to transform your vision for a seamless, engaging and high-quality digital experience. <br/>
+Let us collaborate to transform your vision for a seamless, engaging and high-quality digital experience.
+<br></br>
 **🌐 Contact me and share your ideas and I will do the rest 😉**
 
 <hr></hr>
 💻 I Code With
 <br></br>
-<p align="left"> <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,git,github,figma,canva,vscode,netlify" /> </p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,git,github,figma,vscode,netlify" /> </p>
 <hr></hr>
 🌐 Let's Connect 
 <br></br>
