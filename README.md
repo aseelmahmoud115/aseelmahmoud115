@@ -23,7 +23,7 @@ Let us collaborate to transform your vision for a seamless, engaging and high-qu
 <br></br>
 <p align="left"> <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,git,github,figma,vscode,netlify" /> </p>
 <hr></hr>
-# 🌐 Let's Connect 
+🌐 Let's Connect 
 <br></br>
 <div align="left">
 
