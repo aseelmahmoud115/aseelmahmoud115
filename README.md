@@ -23,14 +23,14 @@ Let us collaborate to transform your vision for a seamless, engaging and high-qu
 <br></br>
 <p align="left"> <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,git,github,figma,vscode,netlify" /> </p>
 <hr></hr>
-🌐 Let's Connect 
+🌐 Let's Connect
 <br></br>
 <div align="left">
 
-[<img src="https://skillicons.dev/icons?i=gmail" width="40"/>](mailto:aseel.alqedra@gmail.com)
-[<img src="https://skillicons.dev/icons?i=github" width="40"/>](https:github.com/aseelalqedra)
-[<img src="https://skillicons.dev/icons?i=linkedin" width="40"/>](https:linkedin.com/in/aseelalqedra)
+[<img src="https://skillicons.dev/icons?i=gmail" width="40"/>](mailto:aseel.alqedra2004@gmail.com)
+[<img src="https://skillicons.dev/icons?i=github" width="40"/>](https://github.com/aseelmahmoud115)
+[<img src="https://skillicons.dev/icons?i=linkedin" width="40"/>](https://www.linkedin.com/in/aseelalqedra)
 
 </div>
-   [![Portfolio](https://img.shields.io/badge/Portfolio-e8879c?style=for-the-badge&logo=vercel&logoColor=white)](https://aseel-alqedra.vercel.app/)
 
+🌐 [Portfolio](https://aseel-alqedra.vercel.app/)
