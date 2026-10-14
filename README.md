@@ -1,17 +1,20 @@
 # Hey 👋 What's up?
-I am Aseel Al-Qedra, a software engineer and front-end developer from Palestine.
+I am Aseel Al-Qedra, a software engineer and front-end developer from Palestine — building with **React.js & Next.js**.
 <hr></hr>
 
 # 🧑‍💻 About Me <br/>
 A talented, professional developer driven to craft elegant, responsive, and high-performance web experiences. Transform complex concepts into intuitive, visually attractive interfaces in a timely manner and with attention to every detail. Create code that is well organized and easily maintainable.
 
 I develop applications using:<br/>
-- **Languages:** HTML5, CSS3, JavaScript (ES6)  
-- **Styling:** Bootstrap, Tailwind CSS  
-- **Version Control:** Git, GitHub  
+- **Languages:** HTML5, CSS3, JavaScript (ES6+), TypeScript  
+- **Frameworks & Libraries:** React.js, Next.js (App Router), React Router  
+- **Styling:** Tailwind CSS, Bootstrap, shadcn/ui  
+- **Forms & Auth:** React Hook Form, Zod, NextAuth  
+- **State & Data:** Context API, REST APIs, Fetch / Async-Await, LocalStorage  
+- **Tools:** Vite, Git, GitHub, Visual Studio Code  
 - **Design Tools:** Figma, Canva  
-- **Code Editor:** Visual Studio Code  
-- **Deployment:** GitHub Pages, Netlify
+- **Deployment:** Vercel, GitHub Pages, Netlify  
+- **Also:** Responsive & mobile-first design, Arabic RTL / bilingual websites, SEO basics
 
 My goal is to manage the business in an efficient and profitable manner for clients and to establish long-term business relationships with them.
 Let us collaborate to transform your vision for a seamless, engaging and high-quality digital experience.
@@ -21,7 +24,7 @@ Let us collaborate to transform your vision for a seamless, engaging and high-qu
 <hr></hr>
 💻 I Code With
 <br></br>
-<p align="left"> <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,git,github,figma,vscode,netlify" /> </p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,vite,git,github,figma,vscode,vercel,netlify" /> </p>
 <hr></hr>
 🌐 Let's Connect
 <br></br>
