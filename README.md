@@ -32,5 +32,5 @@ Let us collaborate to transform your vision for a seamless, engaging and high-qu
 [<img src="https://skillicons.dev/icons?i=linkedin" width="40"/>](https:linkedin.com/in/aseelalqedra)
 
 </div>
-https://aseel-alqedra.vercel.app/
+   [![Portfolio](https://img.shields.io/badge/Portfolio-e8879c?style=for-the-badge&logo=vercel&logoColor=white)](https://aseel-alqedra.vercel.app/)
 
