@@ -32,7 +32,7 @@ Let us collaborate to transform your vision for a seamless, engaging and high-qu
 
 [<img src="https://skillicons.dev/icons?i=gmail" width="40"/>](mailto:aseel.alqedra2004@gmail.com)
 [<img src="https://skillicons.dev/icons?i=github" width="40"/>](https://github.com/aseelmahmoud115)
-[<img src="https://skillicons.dev/icons?i=linkedin" width="40"/>](https://www.linkedin.com/in/aseelalqedra)
+[<img src="https://skillicons.dev/icons?i=linkedin" width="40"/>](https://www.linkedin.com/in/aseel-al-qedra/)
 
 </div>
 
